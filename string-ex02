@@ -1,0 +1,20 @@
+package string;
+
+public class Ex02 {
+
+	public static void main(String[] args) {
+		
+		// 이름과 전화번호 주민번호를
+		// String 변수에 담고 출력하기
+		
+		String name = "공서연";
+		String phonenumber = "010-3274-8888";
+		String number = "030604-4111111";
+		
+		System.out.println(name);
+		System.out.println(phonenumber);
+		System.out.println(number);
+		
+	}
+
+}
